@@ -1,5 +1,5 @@
 # ConsultesMongoJava
-Diferents consultes fet servir Java i el driver mongodb
+Diferents consultes fent servir Java i el driver mongodb
 
 # Usage
 Fitxer resources/media.json, que s'ha d'importar a una collection que es digui movieDetails, per disposar de dades.
